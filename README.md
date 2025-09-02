@@ -11,8 +11,11 @@
 <div align="center">
  
  🔭 Estoy estudiando actualmente **Las Aguilas**
+ 
 🧠 Aprender Python, React, SQL y Ensamblador te convierte en un “viajero del tiempo” tecnológico.
+
 💬 Preguntame Sobre **Node.js, React, Python... o cualquier cosa [here](https://github.com/MoralesMeridaxtzv1)**
+
 🕹️ El personaje de Link originalmente iba a tener una espada que se controlaba con el stick analógico.
 
  </div>
