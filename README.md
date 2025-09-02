@@ -22,13 +22,13 @@
  
 <div align="center"> 
   <a href="respaldobrandonmorales@gmail.com">
-    <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
-     <img src="	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
